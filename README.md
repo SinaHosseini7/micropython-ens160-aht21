@@ -54,7 +54,7 @@ MicroPython driver for ENS160+AHT21 environmental sensor module on Raspberry Pi 
 
 ### I2C Configuration
 - Any GPIO pins with I2C capability (examples use GP4=SDA, GP5=SCL)
-- Frequency: 400 kHz recommended
+- Frequency: 400 kHz recommended (if you see error lower it to 100 kHz)
 - Pull-up resistors: 4.7kΩ on SDA/SCL (usually built-in on breakout boards)
 
 ### Power Supply
