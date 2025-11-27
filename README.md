@@ -502,6 +502,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - ScioSense for the ENS160 sensor and comprehensive datasheet
 - Aosong Electronics for the AHT21 sensor
 - MicroPython community for the excellent embedded Python implementation
+- Many thanks to Claude Opus 4.5 for help in debugging the code and optimizing it.
 
 ---
 
